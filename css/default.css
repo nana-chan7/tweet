@@ -36,3 +36,22 @@ a{
     height: 38px;
     border-radius: 50%;
 }
+
+.tweet-body{
+    padding: 5px;
+}
+
+.tweet-nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+.tweet-nav li{
+    width: 100px;
+    /* margin-right: 100px; */
+}
+
+.tweet-nav li img{
+    width: 14px;
+    height: 14px;
+}
