@@ -1,5 +1,5 @@
 a{
-    color: #58aeed;
+    /* color: #58aeed; */
     text-decoration: none;
 }
 
@@ -10,9 +10,18 @@ a{
 }
 
 #side-menu ul{
+    list-style: none;
     padding: 0;
+}
+
+#side-menu li{
+    padding: 8px 0;
 }
 
 #side-menu a{
     color: #303030;
+}
+
+#side-menu li > img{
+    width: 30px;
 }
